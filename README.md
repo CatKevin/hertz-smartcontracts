@@ -1,1 +1,1 @@
-# Leek DAO smart contracts
+# Hertz Finance smart contracts
